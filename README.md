@@ -1,5 +1,5 @@
 # Downloading
-Download .PNG versions of our logo [here](PNG), and .SVG versions [here](SVG)
+Download `.PNG` versions of our logo [here](PNG), and `.SVG` versions [here](SVG)
 
 Download the `Adobe Illustrator` file [here](PawPrintLogo.ai)
 

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="PAW_Text_copy" data-name="PAW Text copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #ef60a3;
+        stroke: #410d2d;
+        stroke-miterlimit: 10;
+        stroke-width: 13px;
+      }
+
+      .cls-3 {
+        font-size: 360.98px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-family: PackyGreatRegular, 'Packy Great';
+      }
+
+      .cls-6 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        font-size: 320.98px;
+      }
+
+      .cls-5 {
+        font-size: 210.98px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(23.9 399.92)"><tspan x="0" y="0" xml:space="preserve">P   W</tspan></text>
+  <g id="Paw_copy_8" data-name="Paw copy 8">
+    <g id="Print">
+      <ellipse class="cls-2" cx="408.79" cy="176.8" rx="39.45" ry="50.5" transform="translate(-16.7 45.18) rotate(-6.2)"/>
+      <ellipse class="cls-2" cx="504.1" cy="176.8" rx="50.5" ry="39.45" transform="translate(286.06 664.49) rotate(-85.24)"/>
+      <ellipse class="cls-2" cx="332.66" cy="248.94" rx="37.11" ry="47.5" transform="translate(-32.54 50.8) rotate(-8.33)"/>
+      <ellipse class="cls-2" cx="579.13" cy="249.99" rx="47.5" ry="37.11" transform="translate(237.51 780.25) rotate(-80.56)"/>
+      <path class="cls-2" d="M458.47,243.92c-3.93,0-49.44-3.66-74.64,57.42-41.81,19.29-52.53,66.55-33.04,95.54,20.91,30.18,74.99,20.32,106.24,3.57,11.41,0,79.38,43.02,110.52-11.88,11.57-40.64-3.33-64.88-40.88-88.57-.71-2.38-16.05-56.08-68.2-56.08Z"/>
+    </g>
+  </g>
+  <text class="cls-5" transform="translate(17.92 897.63)"><tspan x="0" y="0">Stu</tspan><tspan class="cls-1" x="435.24" y="0">d</tspan><tspan class="cls-7" x="588.41" y="0">i</tspan><tspan class="cls-6" x="665.21" y="0">o</tspan><tspan x="821.54" y="0">s</tspan></text>
+  <text class="cls-4" transform="translate(12.85 694.83)"><tspan x="0" y="0">PRINT</tspan></text>
+</svg>
